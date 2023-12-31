@@ -1,5 +1,5 @@
 # Updated News 
-![](images/Home - UPDATED NEWS.png)
+![](images/Home.png)
 ### If this project has helped you and you'd like to support my work, feel free to ♥️ Sponsor the project
 
 ## Description
